@@ -41,7 +41,7 @@ export default function EntryView() {
           onPress={handleTestPress}
           activeOpacity={0.8}
         >
-          <Text style={styles.testButtonText}>Button</Text>
+          <Text style={styles.testButtonText}>Button Updates</Text>
         </TouchableOpacity>
 
         <View style={styles.footer}>
